@@ -1,1 +1,1 @@
-module.exports = 'very newboo'
+module.exports = 'very new boo'
